@@ -19,7 +19,9 @@ Cronometro feito com react-native aprendido no curso React Native - Básico ao a
     
 
 OU seja se o time for dirente de vazio, utiliza o clearInterval para limpar o tempo do (this.timer), senão utiliza o setInterval para começar a contar o relógio adicionando 0.1 no numero
-a cada segundo que é representado pelo  -> , 100); da função setInterval.
+a cada milisegundos que é representado pelo  -> , 100); da função setInterval.
+<br>
+<br>Caso queira alterar para a cada segundo o método teria que ser , 1000); da função setInterval.
 
 <p>Essa imagem é que está no repositorio e a de baixo é uma modificação na imagem que fiz. </p>
 
